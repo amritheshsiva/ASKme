@@ -53,4 +53,4 @@ streamlit run app.py
 #### 3. Get Answers: The response will be displayed below the input box.
 
 ## Demonstration
-1[image](
+![image](https://raw.githubusercontent.com/amritheshsiva/ASKme/refs/heads/master/pathway_llm.png)
