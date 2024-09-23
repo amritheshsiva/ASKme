@@ -5,6 +5,7 @@ This project is an AI-powered question and answer bot that allows users to uploa
 
 ## Tech Stacks
 - **Python**: Core programming language for building the app.
+- **Pathway LLM**: Used as a language model for additional AI-based text processing.
 - **Streamlit**: Web framework used for creating a simple and interactive user interface.
 - **Google Gemini API**: AI models used for generating answers based on text content.
 - **Docker**: Optional - For containerizing the application.
@@ -12,8 +13,8 @@ This project is an AI-powered question and answer bot that allows users to uploa
 
 ## Prerequisites
 Before running this project, ensure you have the following installed on your local machine:
-- Python 3.x
-- pip (Python package manager)
+- Python
+- pip
 - Google Gemini API Key
 - Streamlit
 - (Optional) Docker for containerization
@@ -53,4 +54,6 @@ streamlit run app.py
 #### 3. Get Answers: The response will be displayed below the input box.
 
 ## Demonstration
-![image](https://raw.githubusercontent.com/amritheshsiva/ASKme/refs/heads/master/pathway_llm.png)
+
+https://github.com/user-attachments/assets/d580f5e9-a391-426d-b77b-7b639f80f601
+
